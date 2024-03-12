@@ -1,4 +1,11 @@
 package com.tienda.landing.repositories;
 
-public class UserRepository {
+
+import org.springframework.stereotype.Repository;
+
+
+@Repository
+
+public interface UserRepository {
+
 }

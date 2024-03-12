@@ -1,4 +1,4 @@
 package com.tienda.landing.models.dto;
 
-public class ProductDto {
+public class PhotoDTO {
 }

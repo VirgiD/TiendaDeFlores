@@ -1,4 +1,7 @@
 package com.tienda.landing.repositories;
 
-public class PhotoRepository {
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface PhotoRepository {
 }

@@ -27,7 +27,6 @@ public class Photo {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String mime;
-
     private String nombre;
     @Lob
     @Basic(fetch = FetchType.LAZY)
